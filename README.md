@@ -38,3 +38,10 @@ The project is organized into several key components, each responsible for diffe
    ```sh
    git clone https://github.com/yourusername/real-time-drosophila-tracking.git
    cd real-time-drosophila-tracking
+
+## Running the Application
+To start the system, execute:
+   ```bash
+   python main.py
+
+
